@@ -1,0 +1,28 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "company": "Toyota",
+      "model": "Camry",
+      "year": 2015
+    },
+    {
+      "id": "2",
+      "company": "Toyota",
+      "model": "Premio",
+      "year": 2015
+    },
+    {
+      "id": "3",
+      "company": "Toyota",
+      "model": "Hilux",
+      "year": 2012
+    },
+    {
+      "id": "4",
+      "company": "Toyota",
+      "model": "Corolla",
+      "year": 2014
+    }
+  ]
+}
